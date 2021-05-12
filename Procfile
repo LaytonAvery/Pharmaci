@@ -1,0 +1,1 @@
+web: node pharmaci-backend/app.js
