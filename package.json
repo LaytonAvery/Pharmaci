@@ -1,0 +1,19 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "## Purpose:  The purpose of this project was to integrate what I learned with React and MySQL.  Learning about backend technologies, I thought of it while joking about how the names of medications are often odd and rarely euphonious. With the click of a button, random names of fictional medications are generated from the backed as a result of concatenation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaytonAvery/Pharmaci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaytonAvery/Pharmaci/issues"
+  },
+  "homepage": "https://github.com/LaytonAvery/Pharmaci#readme"
+}
