@@ -1,1 +1,1 @@
-web: node pharmaci-backend/app.js
+web: npm start
